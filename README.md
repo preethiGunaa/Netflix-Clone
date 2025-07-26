@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 Netflix Clone - Day 1
 
 Welcome to my **Netflix Clone** project! This repository is a part of my web development learning journey, where I build a responsive and visually appealing Netflix-inspired interface using **React** and **CSS**.
@@ -14,3 +15,6 @@ On Day 1, I focused on setting up the foundation of the project. Here's what I'v
 
 ## 📂 Project Structure (so far)
 
+=======
+# Netflix-Clone
+>>>>>>> e74408c48ea5ff9a135468b33b9b5f86c7700eab
